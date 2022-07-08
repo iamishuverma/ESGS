@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="CSE">#5b39c6</color>
+    <color name="IT">#00ffce</color>
+    <color name="ECE">#808080</color>
+    <color name="ELECTRICAL">#ba160c</color>
+    <color name="MECHANICAL">#00e5ff</color>
+    <color name="CIVIL">#add827</color>
+    <color name="CHEMICAL">#ff00ff</color>
+    <color name="METALLURGY">#010203</color>
+
+
+    <color name="color_one">#fb7268</color>
+    <color name="color_white">#ededf2</color>
+    <color name="color_two">#E3E0E0</color>
+
+</resources>
